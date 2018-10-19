@@ -1,25 +1,25 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MICROSOFT.JET.OLEDB.4.0;Data Source=E:\Google Disk\AltiumLibrary\MOP44.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+ConnectionString=Provider=MICROSOFT.JET.OLEDB.4.0;Data Source=D:\AltiumLibrary\MOP44.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
 UseTableSchemaName=0
 DefaultColumnType=VARCHAR(255)
 LibraryDatabaseType=Microsoft Excel
-LibraryDatabasePath=E:\Google Disk\AltiumLibrary\MOP44.xls
+LibraryDatabasePath=D:\AltiumLibrary\MOP44.xls
 DatabasePathRelative=0
 TopPanelCollapsed=0
 LibrarySearchPath=..\AltiumLibrary;pcb;sch
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=Capacitors$
+LastFocusedTable=Amplifier$
 [Table1]
 SchemaName=
 TableName=Amplifier$
@@ -50,18 +50,12 @@ TableName=Capacitors$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Ref0=79|Footprint Ref0=167|Footprint Path0=98|Value0=52|Voltage0=63|id0=44|Library Path0=93|Part Name0=84|TKE0=54|Part Number0=200
 [Table6]
 SchemaName=
 TableName=Connector$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Ref0=92|Footprint Ref0=98|Library Path0=98|Footprint Path0=98|Part Name0=96|Contact_10=74|Contact_20=74|Contact_30=74|Contact_40=74|Contact_50=74|Contact_60=74|id0=61|Part Number0=103|Contact_70=74|Contact_80=74|Contact_90=74|Contact_100=80|Contact_110=80|Contact_120=80|Contact_130=80|Contact_140=80|Contact_150=80|Contact_160=80|Contact_170=80|Contact_180=80|Contact_190=80|Contact_200=80|Contact_210=80|Contact_220=80|Contact_230=80|Contact_240=80|Contact_250=80
 [Table7]
 SchemaName=
 TableName=Diode$
