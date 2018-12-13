@@ -1,25 +1,25 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MICROSOFT.JET.OLEDB.4.0;Data Source=D:\AltiumLibrary\MOP44.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+ConnectionString=Provider=MICROSOFT.JET.OLEDB.4.0;Data Source=E:\AltiumLibrary\MOP44.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
 UseTableSchemaName=0
 DefaultColumnType=VARCHAR(255)
 LibraryDatabaseType=Microsoft Excel
-LibraryDatabasePath=D:\AltiumLibrary\MOP44.xls
+LibraryDatabasePath=E:\AltiumLibrary\MOP44.xls
 DatabasePathRelative=0
 TopPanelCollapsed=0
 LibrarySearchPath=..\AltiumLibrary;pcb;sch
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=Driver$
+LastFocusedTable=Amplifier$
 [Table1]
 SchemaName=
 TableName=Amplifier$
@@ -80,9 +80,6 @@ TableName=Driver$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=id0=43|Library Ref0=101|Footprint Ref0=92|Library Path0=83|Footprint Path0=98|Part Name0=285|Logic Voltage0=93|Operating Supply Voltage0=157|Min Operating Supply Voltage0=180|Max Operating Supply Voltage0=181|Max Supply Current0=124|Maximum Power Dissipation0=168|Duty Cycle max0=99|Manufacture0=105|Part Number0=101
 [Table11]
 SchemaName=
 TableName=Fuse$
