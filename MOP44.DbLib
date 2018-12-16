@@ -77,6 +77,9 @@ TableName=Diode$
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Library Ref0=83|Footprint Ref0=92|Library Path0=83|Footprint Path0=98|id0=50|Part Name0=194|Max Reverse Voltage0=129|Forward Voltage0=109|Forward Current0=108|Breakdown Voltage0=125|Breakdown Current0=124|Leakage current0=105|Reverse Recovery time0=135|Capacitance0=85|Number of Channels0=129|Part Number0=113|Manufacture0=124
 [Table10]
 SchemaName=
 TableName=Driver$
