@@ -1,25 +1,25 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MICROSOFT.JET.OLEDB.4.0;Data Source=D:\AltiumLibrary\MOP44.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+ConnectionString=Provider=MICROSOFT.JET.OLEDB.4.0;Data Source=E:\AltiumLibrary\MOP44.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
 UseTableSchemaName=0
 DefaultColumnType=VARCHAR(255)
 LibraryDatabaseType=Microsoft Excel
-LibraryDatabasePath=D:\AltiumLibrary\MOP44.xls
+LibraryDatabasePath=E:\AltiumLibrary\MOP44.xls
 DatabasePathRelative=0
 TopPanelCollapsed=0
 LibrarySearchPath=..\AltiumLibrary;pcb;sch
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=Connector$
+LastFocusedTable=Amplifier$
 [Table1]
 SchemaName=
 TableName=Amplifier$
@@ -62,9 +62,6 @@ TableName=Connector$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Ref0=104|Footprint Ref0=134|Library Path0=98|Footprint Path0=98|Part Name0=211|Contact_10=74|Contact_20=74|Contact_30=74|Contact_40=74|Contact_50=74|Contact_60=74|id0=61|Etch0=47|Part Number0=132|Manufacture0=144|Contact_70=74|Contact_80=74|Contact_90=74|Contact_100=80|Contact_110=80|Contact_120=80|Contact_130=80|Contact_140=80|Contact_150=80|Contact_160=80|Contact_170=80|Contact_180=80|Contact_190=80|Contact_200=80|Contact_210=80|Contact_220=80|Contact_230=80|Contact_240=80|Contact_250=80|Contact_260=80|Contact_270=80|Contact_280=80|Contact_290=80|Contact_300=80|Contact_310=80|Contact_320=80|Contact_330=80|Contact_340=80|Contact_350=80|Contact_360=80|Contact_370=80|Contact_380=80|Contact_390=80|Contact_400=80|Contact_410=80|Contact_420=80|Contact_430=80|Contact_440=80|Contact_450=80|Contact_460=80|Contact_470=80|Contact_480=80
 [Table8]
 SchemaName=
 TableName=Crystal$
@@ -89,9 +86,6 @@ TableName=Fuse$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Ref0=77|Footprint Ref0=92|Library Path0=83|Footprint Path0=98|id0=42|Part Name0=94|V max0=53|I max0=49|I hold0=53|I trip0=47|Resistance0=77|Manufacture0=89|Part Number0=105
 [Table12]
 SchemaName=
 TableName=GOSTCapacitors$
@@ -116,9 +110,6 @@ TableName=GOSTVoltageReference$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Part Number0=87|Library Ref0=77|Footprint Ref0=92|Library Path0=163|Footprint Path0=163|Part Name0=146|Voltage min stabilize0=130|Input current0=91|Leakage current0=105
 [Table16]
 SchemaName=
 TableName=HallSensor$
