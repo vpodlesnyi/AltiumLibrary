@@ -1,25 +1,25 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MICROSOFT.JET.OLEDB.4.0;Data Source=E:\AltiumLibrary\MOP44.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
+ConnectionString=Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\AltiumLibrary\MOP44.xls;Extended Properties="Excel 8.0;HDR=Yes;IMEX=1"
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=1
+ViewMode=0
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
 UseTableSchemaName=0
 DefaultColumnType=VARCHAR(255)
 LibraryDatabaseType=Microsoft Excel
-LibraryDatabasePath=E:\AltiumLibrary\MOP44.xls
+LibraryDatabasePath=C:\AltiumLibrary\MOP44.xls
 DatabasePathRelative=0
 TopPanelCollapsed=0
 LibrarySearchPath=..\AltiumLibrary;pcb;sch
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
-LastFocusedTable=BJTTransistor$
+LastFocusedTable=Amplifier$
 [Table1]
 SchemaName=
 TableName=Amplifier$
@@ -32,9 +32,6 @@ TableName=BJTTransistor$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Ref0=77|Footprint Ref0=92|Library Path0=94|Footprint Path0=98|id0=33|Part Name0=75|Structure0=70|hfe0=48|Vceo max0=71|Ic max0=54|Power0=55|Icpeak max0=79|Frequency0=76|Part Number0=87
 [Table3]
 SchemaName=
 TableName=Button$
@@ -77,9 +74,6 @@ TableName=Diode$
 Enabled=True
 UserWhere=0
 UserWhereText=
-BrowserOrder_Sorting=
-BrowserOrder_Grouping=
-BrowserOrder_Visible=Library Ref0=83|Footprint Ref0=92|Library Path0=83|Footprint Path0=98|id0=50|Part Name0=194|Max Reverse Voltage0=129|Forward Voltage0=109|Forward Current0=108|Breakdown Voltage0=125|Breakdown Current0=124|Leakage current0=105|Reverse Recovery time0=135|Capacitance0=85|Number of Channels0=129|Part Number0=113|Manufacture0=124
 [Table10]
 SchemaName=
 TableName=Driver$
