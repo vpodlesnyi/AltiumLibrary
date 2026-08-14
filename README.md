@@ -36,8 +36,8 @@ PCB library design convention for **.PcbLib** files:
 - Pin 1 is marked by a dot diameter 0.3 mm (if necessary);
 - The line doesn't go over any pad.
 
-[!NOTE]
-To reduce assembly risks, remove the silkscreen lines and keep only the First Pin Mark Dot.
+> [!NOTE]
+> To reduce assembly risks, remove the silkscreen lines and keep only the First Pin Mark Dot.
 
 12. Mechanical 15:
 - Line width is 0.05 mm;
