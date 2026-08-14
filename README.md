@@ -8,10 +8,10 @@ The library consists of the following files and directories:
 - **Altium DataBase Library** contains components from the MOP component list and foreign-manufactured components;
 - Component database in Excel format.
 
-SCH library design convention for **.SchLib** files:
+## SCH library design convention for **.SchLib** files:
 - TBD.
 
-PCB library design convention for **.PcbLib** files:
+## PCB library design convention for **.PcbLib** files:
 1. Pattern name: package type (in case of the standard package), or manufacturer part number;
 2. Description: taken from Digikey site with package type (package/case) and dimensions in format L X.XX mm x W X.XX mm;
 3. Height: According to drawing from the component's datasheet;
